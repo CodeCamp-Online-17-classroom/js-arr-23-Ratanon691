@@ -5,3 +5,4 @@
 ```JavaScript
 const array = [29, 17, 13, 47, 23, 31];
 ```
+Rattanon Tunwittaya
